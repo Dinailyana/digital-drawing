@@ -1,6 +1,7 @@
 # digital_drawing
 
-A new Flutter project.
+A new Flutter application project for my final year research project, which is 
+DIGITAL DRAWING JOURNAL AS STRESS LEVEL THERAPY.
 
 ## Getting Started
 
